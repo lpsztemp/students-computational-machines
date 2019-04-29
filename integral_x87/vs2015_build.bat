@@ -1,0 +1,1 @@
+ml integration_x87_fpu.asm libcmt.lib legacy_stdio_definitions.lib libucrt.lib
